@@ -1,10 +1,10 @@
 # Risk Analyst SQL Practice Project
 
-Hi, I'm [Ruiyi Hu]. I am currently transitioning from a biological sciences background into the field of credit risk analytics. This repository documents my learning journey into SQL and risk-focused data analysis, in preparation for applying to analyst roles such as the Risk Management position.
+Hi, I am currently transitioning from a biological sciences background into the field of credit risk analytics. This repository documents my learning journey into SQL and risk-focused data analysis, in preparation for applying to analyst roles such as the Risk Management position.
 
 # Goal
 
-To develop foundational SQL skills and business analysis mindset relevant to credit risk evaluation and customer onboarding strategy.
+To develop foundational SQL skills and a business analysis mindset relevant to credit risk evaluation and customer onboarding strategy.
 
 ## Learning Progress
 
