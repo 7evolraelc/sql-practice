@@ -16,7 +16,7 @@ To develop foundational SQL skills and a business analysis mindset relevant to c
 
 ## Planned LeetCode SQL Practice
 
-- [x] 175. Combine Two Tables
+- [ ] 175. Combine Two Tables
 - [ ] 183. Customers Who Never Order
 - [ ] 620. Not Boring Movies
 - [ ] 627. Swap Salary
